@@ -38,4 +38,4 @@ eureka:
 
 app:
   storage:
-    bucket-name: "student-bucket-1"
+    bucket-name: "sandaru-bucket-student-1"
